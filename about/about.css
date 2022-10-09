@@ -1,0 +1,26 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #222831 !important;
+}
+
+p{
+    font-size: 20px;
+    color: white;
+}
+
+.deskripsi{
+    color: wheat;
+}
+
+h2{
+    color: wheat;
+}
+
+.navbar{
+    background-color: #00ADB5 !important;
+}
