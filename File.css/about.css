@@ -1,0 +1,77 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.cr1{
+    background-color: white;
+    overflow: hidden;
+}
+
+.cr1 p{
+    font-size: 20px;
+    color: black;
+    padding-bottom: 35px;
+}
+
+.paragraf{
+    padding-right: 30px !important;
+}
+
+.cr1 h2{
+    color: black;
+    font-weight: 300;
+}
+
+img{
+    border-radius: 20px;
+}
+
+.gambar img{
+    margin: 0 15px;
+    position: relative;
+}
+
+.cr2{
+    width: 100%;
+    /*background-color: #256D85;*/
+    background-color: #222831;
+    overflow: hidden;
+    /*background-color: #256D85 ;*/
+    color: white;
+}
+
+h6{
+    text-align: center;
+    width: 100%;
+    align-items: center;
+}
+
+.kembali{
+    text-decoration: none !important;
+    padding: 20px 0;
+}
+
+a.kembali{
+    text-decoration: none !important;
+    background-color: #222831;
+    border-radius: 15px;
+    color: white;
+    padding: 12px;
+}
+
+a.kembali:hover{
+    transition: 0.5s;
+    background-color: wheat;
+    color:#222831;
+}
+
+@media screen and (max-widh: 600px) {
+    .gambar img{
+        justify-items: center;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}
